@@ -1,114 +1,186 @@
-<h1 align="center">Lakshya Chalana</h1>
+# <h1 align="center">Lakshya Chalana</h1>
+
 <p align="center">
-AI Engineer | DevOps Enthusiast | Linux & Automation
+Research Intern @ IIT Hyderabad | AI Systems | MLOps | DevOps | Linux Engineering
 </p>
 
 <p align="center">
-Building scalable systems, automation tools, and applied AI solutions.
+Building scalable AI systems, automation pipelines, and production-oriented infrastructure.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshya8839&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/lakshya8839?label=Followers&style=social" />
+  <img src="https://img.shields.io/badge/Research-IIT%20Hyderabad-red" />
+  <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium" />
 </p>
 
 ---
 
 ## About
 
-I am a **Computer Science undergraduate (B.Tech CSE, 2027)** with strong interest in:
+I am a **Computer Science undergraduate (B.Tech CSE, 2027)** and currently a **Research Intern @ IIT Hyderabad** with strong interest in:
 
-- AI-driven system design  
-- DevOps & Linux-based automation  
-- Building real-world, production-oriented tools  
+* AI systems & LLM infrastructure
+* MLOps, DevOps & Linux engineering
+* Production-oriented automation
+* Scalable system design and observability
 
-I focus on **clean architecture, system thinking, and practical problem solving**, rather than experimental or toy projects.
+I focus on **real-world engineering, clean architecture, and practical problem solving**, rather than experimental or toy projects.
+
+I enjoy learning through **hands-on systems work, infrastructure building, and applied engineering challenges**.
+
+---
+
+## Current Learning & Research
+
+Currently learning and practicing:
+
+* Linux system administration & Bash automation
+* SLURM workload scheduling & HPC environments
+* GPU accounting, billing & metering
+* Docker and containerized workflows
+* SSH automation & remote infrastructure
+* vLLM architecture and inference pipelines
+* Bottleneck analysis and system performance
+* Monitoring with Prometheus & Grafana
+* AI deployment pipelines and MLOps practices
+
+Current research interests:
+
+* LLM inference observability
+* vLLM latency and performance monitoring
+* Dashboarding for inference pipelines
+* Understanding bottlenecks in modern AI serving systems
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**
-- Python
-- C++
-- JavaScript
+### Programming Languages
 
-**AI / Machine Learning**
-- TensorFlow
-- OpenCV
-- Prompt Engineering
-- AI system integration
+* Python
+* C++
+* JavaScript
 
-**DevOps & Systems**
-- Linux (CLI, process & system management)
-- Docker (containerization & workflows)
-- Git & GitHub
-- SSH-based automation
+### AI / Machine Learning
 
-**Web & Application Development**
-- HTML, CSS
-- React
-- Streamlit
+* TensorFlow
+* OpenCV
+* Prompt Engineering
+* Applied AI systems
+* AI workflow integration
+
+### DevOps & Systems
+
+* Linux Administration (CLI, process & system management)
+* Bash scripting & automation
+* Docker (containerization & workflows)
+* Git & GitHub
+* SSH-based automation
+* Monitoring & observability
+* SLURM basics & GPU resource management
+
+### Web & Application Development
+
+* HTML
+* CSS
+* React
+* Streamlit
 
 ---
 
 ## Selected Projects
 
-### CommandHub  
+### CommandHub
+
 **Unified automation platform for Linux, Docker, and DevOps workflows**
 
-- SSH-based remote Linux command execution  
-- Docker automation & container control  
-- Integrated utilities: email, voice calls, social automation  
-- Modular Streamlit-based architecture  
+* SSH-based remote Linux command execution
+* Docker automation & container control
+* Integrated workflow utilities
+* Modular Streamlit-based architecture
 
-Repository:  
+Repository:
 https://github.com/lakshya8839/CommandHub
 
 ---
 
-### AI Symptom Sketcher  
+### AI Symptom Sketcher
+
 **Human-centered healthcare AI interface**
 
-- Converts drawn or described symptoms into structured summaries  
-- Designed for faster doctor-patient communication  
-- Focus on usability, not just model accuracy  
+* Converts drawn or described symptoms into structured summaries
+* Designed for faster doctor-patient communication
+* Focus on usability and practical assistance
 
-Repository:  
+Repository:
 https://github.com/lakshya8839/AI-Symptom-Sketcher
 
 ---
 
-### Apno Ki Awaz  
+### Apno Ki Awaz
+
 **AI-powered emotional wellness companion**
 
-- Voice-interactive AI system  
-- Focus on emotional presence and mental wellness  
-- Designed with privacy and accessibility in mind  
+* Voice-interactive AI system
+* Focus on emotional presence and accessibility
+* Privacy-aware conversational design
 
-Repository:  
+Repository:
 https://github.com/lakshya8839/Apno-Ki-Awaz
+
+---
+
+## Technical Writing
+
+I enjoy documenting and sharing engineering learnings.
+
+### Latest Blog
+
+**SLURM GPU Billing & Metering — A Hands-On Guide to Accounting GPU Usage**
+
+* GPU accounting using SLURM
+* Resource monitoring and visibility
+* Hands-on infrastructure learning
+
+Medium:
+https://medium.com/@chalanalakshya5
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshya8839&show_icons=true&hide_title=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya8839&layout=compact&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshya8839&show_icons=true&hide_title=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya8839&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lakshya8839&theme=tokyonight" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Advanced Linux & DevOps automation  
-- AI system design with real-world constraints  
-- Writing clean, maintainable, and documented code  
+* AI infrastructure & inference systems
+* MLOps and deployment pipelines
+* Linux & systems engineering
+* LLM observability and monitoring
+* Writing clean, maintainable, and documented code
 
 ---
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/lakshya-chalana-886306285/
-- GitHub: https://github.com/lakshya8839
-- Email: chalanalakshya5@gmail.com
+* LinkedIn: https://www.linkedin.com/in/lakshya-chalana-886306285/
+* GitHub: https://github.com/lakshya8839
+* Medium: https://medium.com/@chalanalakshya5
+* Email: [chalanalakshya5@gmail.com](mailto:chalanalakshya5@gmail.com)
 
 ---
 
-*Open to internships, collaborative projects, and learning-driven opportunities.*
+<p align="center">
+⭐ Open to internships, research collaborations, and learning-driven opportunities.
+</p>
